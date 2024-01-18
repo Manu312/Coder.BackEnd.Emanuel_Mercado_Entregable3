@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "title": "Producto 0 PUT",
+        "description": "Descripcion 0 PUT",
+        "price": 300,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+        "code": "ABC01110",
+        "stock": 20
+    },
+    {
+        "id": 1,
+        "title": "Producto 1 PUT",
+        "description": "Descripcion 1 PUT",
+        "price": 300,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+        "code": "ABC01010",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "title": "Producto update",
+        "description": "Descripcion update",
+        "price": 300,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-128.png",
+        "code": "ABC1130",
+        "stock": 20
+    }
+]
